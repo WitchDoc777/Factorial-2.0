@@ -25,3 +25,6 @@ For *Factorial function*:-
 3) Do following for all numbers from x = 2 to n.
   Multiply x with array[] and update array[] and array_size to store the multiplication result.
 4) Print the elements of array[] in reverse order for getting the required factorial.
+
+# Please Note:
+Any improvement in code is appreciated.Also if you get a more efficient code in any other programming language you are welcome to send a pull request :-) 
