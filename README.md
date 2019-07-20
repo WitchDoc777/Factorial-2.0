@@ -19,7 +19,7 @@ For *Multiply function*:-
 ….c) Update carry by storing remaining digits in carry.
 3) Put all digits of carry in array[] and increase array_size by number of digits in carry.
 
-For *Factorial function*
+For *Factorial function*:-
 1) Create an array[] of *size*(as required) where *size* is number of maximum digits in output.
 2) Initialize value stored in ‘array[]’ as 1 and initialize ‘array_size’ (size of ‘array[]’) as 1.
 3) Do following for all numbers from x = 2 to n.
