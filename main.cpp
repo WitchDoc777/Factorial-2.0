@@ -1,6 +1,6 @@
 #include <iostream>
 
-#define size 5000
+#define size 1000000000
 
 using namespace std;
 
@@ -51,8 +51,8 @@ int multiply(int x, int arr[] , int arr_size)
 
 int main()
 {
-//    int n;
-//    cin >>n ;
-    fact (100);
+   int n;
+   cin >>n ;
+    fact (n);
     return 0;
 }
