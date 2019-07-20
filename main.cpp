@@ -1,6 +1,6 @@
 #include <iostream>
 
-#define size 1000000000
+#define size 99999999
 
 using namespace std;
 
